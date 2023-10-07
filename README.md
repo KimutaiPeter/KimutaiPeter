@@ -8,7 +8,7 @@
         <li>🔭 I’m currently working on a research projects that aims to make check in and check out more efficient</li>
         <li>🌱 I’m currently learning Veu</li>
         <li>💬 Ask me about anything, I love quality conversations</li>
-        <li>📫 How to reach me: [www.peter-kimutai.web.app](https://peter-kimutai.web.app/)</li>
+        <li>📫 You can reach me <a>here</a>:</li>
         <li>⚡ Fun fact: I love anime</li>
     </ul>
 </div>
