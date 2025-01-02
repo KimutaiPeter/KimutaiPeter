@@ -8,7 +8,7 @@
         <li>🔭 I’m currently a 3rd year student at Strathmore University</li>
         <li>🌱 I’m currently learning Vue</li>
         <li>💬 Ask me about anything, I love quality conversations</li>
-        <li>📫 Checkout my portfolio <a href='https://peter-kimutai.web.app/'>here</a></li>
+        <li>📫 Checkout my portfolio</li>
         <li>⚡ Fun fact: I love anime</li>
     </ul>
 </div>
